@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kumparan</string>
+    <string name="comments">All Comments</string>
+    <string name="albums">All Albums (Click albums below to view photos)</string>
+    <string name="address">%s\n%s\n%s\n%s</string>
+    <string name="album_name">%s (Click photos below to view detail photo)</string>
+</resources>
